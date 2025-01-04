@@ -3,6 +3,8 @@
 - These assignments were part of **COMP 251** - Algorithms and Data Structures Course at **McGill University**.
 - Final Grade: **A**
 
+---
+
 ### Assignment 1: **Hash Tables, Disjoint Sets, and String Processing**  
 Covered **hashing techniques** (chaining and open addressing) and **union-find data structures** with optimizations like union by rank and path compression. Explored efficient string processing and sorting algorithms for text analysis and frequency determination.
 
